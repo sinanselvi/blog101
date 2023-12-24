@@ -1,0 +1,1 @@
+alert("example inline code 1");
