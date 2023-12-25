@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Blog</title>
+  
+  
+  <link href="https://sinanselvi.github.io/blog101/atom.xml" rel="self"/>
+  
+  <link href="https://sinanselvi.github.io/blog101/"/>
+  <updated>2023-12-25T09:11:10.000Z</updated>
+  <id>https://sinanselvi.github.io/blog101/</id>
+  
+  <author>
+    <name>John John</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Style Guide</title>
+    <link href="https://sinanselvi.github.io/blog101/uncategorized/style-guide/"/>
+    <id>https://sinanselvi.github.io/blog101/uncategorized/style-guide/</id>
+    <published>2023-12-01T20:20:53.000Z</published>
+    <updated>2023-12-25T09:11:10.000Z</updated>
+    
+    <content type="html"><![CDATA[<p>Style</p><p><a href="https://ppoffice.github.io/hexo-theme-icarus/uncategorized/hexo-built-in-tag-helpers/">https://ppoffice.github.io/hexo-theme-icarus/uncategorized/hexo-built-in-tag-helpers/</a></p><span id="more"></span><h3 id="Block-Quote"><a href="#Block-Quote" class="headerlink" title="Block Quote"></a>Block Quote</h3><h4 id="Example"><a href="#Example" class="headerlink" title="Example"></a>Example</h4><blockquote><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque hendrerit lacus ut purus iaculis feugiat. Sed nec tempor elit, quis aliquam neque. Curabitur sed diam eget dolor fermentum semper at eu lorem.</p></blockquote><blockquote><p>Do not just seek happiness for yourself. Seek happiness for all. Through kindness. Through mercy.</p><footer><strong>David Levithan</strong><cite>Wide Awake</cite></footer></blockquote><blockquote><p>NEW: DevDocs now comes with syntax highlighting. <a href="http://devdocs.io/">http://devdocs.io</a></p><footer><strong>@DevDocs</strong><cite><a href="https://twitter.com/devdocs/status/356095192085962752">twitter.com/devdocs/status/356095192085962752</a></cite></footer></blockquote><blockquote><p>Every interaction is both precious and an opportunity to delight.</p><footer><strong>Seth Godin</strong><cite><a href="http://sethgodin.typepad.com/seths_blog/2009/07/welcome-to-island-marketing.html">Welcome to Island Marketing</a></cite></footer></blockquote><h3 id="Codeblock"><a href="#Codeblock" class="headerlink" title="Codeblock"></a>Codeblock</h3><figure class="highlight js"><figcaption><span>Example Title</span><a href="http://underscorejs.org/#compact">Underscore.js</a></figcaption><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line"><span class="title function_">alert</span>(<span class="string">&#x27;Hello World!&#x27;</span>);</span><br></pre></td></tr></table></figure><figure class="highlight plaintext"><figcaption><span>C# Code</span></figcaption><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">Console.Write(&#x27;Hello Worldddd!&#x27;);</span><br></pre></td></tr></table></figure><h3 id="jsFiddle"><a href="#jsFiddle" class="headerlink" title="jsFiddle"></a>jsFiddle</h3><iframe scrolling="no" width="100%" height="300" src="https://jsfiddle.net/zx2xyzea/embedded/js,resources,html,css,result/light" frameborder="0" loading="lazy" allowfullscreen></iframe><h3 id="Gist"><a href="#Gist" class="headerlink" title="Gist"></a>Gist</h3><script src="//gist.github.com/defunkt/2059.js?file=gistfile1.rbx"></script><h3 id="iframe"><a href="#iframe" class="headerlink" title="iframe"></a>iframe</h3><iframe src="https://ppoffice.github.io/hexo-theme-icarus/" width="100%" height="300" frameborder="0" loading="lazy" allowfullscreen></iframe><h3 id="Image"><a href="#Image" class="headerlink" title="Image"></a>Image</h3><img src="/blog101/images/post-cover/vector_landscape_1.svg" class=""><h3 id="Link"><a href="#Link" class="headerlink" title="Link"></a>Link</h3><a href="https://hexo.io/" title="title 1" target="">hexo.io</a><p><a href="https://hexo.io/" title="Hexo.io" target="_blank">Hexo.io</a></p><h3 id="Include-Code"><a href="#Include-Code" class="headerlink" title="Include Code"></a>Include Code</h3><figure class="highlight js"><figcaption><span>Example Code</span><a href="/blog101/downloads/code/example1.js">view raw</a></figcaption><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line"><span class="title function_">alert</span>(<span class="string">&quot;example inline code 1&quot;</span>);</span><br></pre></td></tr></table></figure><h3 id="Youtube"><a href="#Youtube" class="headerlink" title="Youtube"></a>Youtube</h3><div class="video-container"><iframe src="https://www.youtube.com/embed/yaqe1qesQ8c" frameborder="0" loading="lazy" allowfullscreen></iframe></div><h3 id="Vimeo"><a href="#Vimeo" class="headerlink" title="Vimeo"></a>Vimeo</h3><div class="video-container"><iframe src="https://player.vimeo.com/video/191822120" frameborder="0" loading="lazy" allowfullscreen></iframe></div><h3 id="Raw"><a href="#Raw" class="headerlink" title="Raw"></a>Raw</h3>content<h3 id="Message-1"><a href="#Message-1" class="headerlink" title="Message 1"></a>Message 1</h3><article class="message is-primary">                <div class="message-body">            <p>primary message</p>        </div>    </article><article class="message is-warning">                <div class="message-body">            <p>warning message</p>        </div>    </article><article class="message is-danger">                <div class="message-body">            <p>danger message</p>        </div>    </article><h3 id="Message-2"><a href="#Message-2" class="headerlink" title="Message 2"></a>Message 2</h3><article class="message message-immersive is-primary">    <div class="message-body">        <i class="fas fa-globe-asia mr-2"></i>test    </div></article><article class="message message-immersive is-warning">    <div class="message-body">        <i class="fas fa-exclamation-triangle mr-2"></i>test    </div></article><article class="message message-immersive is-danger">    <div class="message-body">        <i class="fas fa-exclamation-triangle mr-2"></i>test    </div></article><h3 id="Gallery-1"><a href="#Gallery-1" class="headerlink" title="Gallery 1"></a>Gallery 1</h3><div class="justified-gallery"><p><img src="/blog101/images/post-cover/vector_landscape_1.svg" alt="landscape 1"><br><img src="/blog101/images/post-cover/vector_landscape_2.svg" alt="landscape 2"><br><img src="/blog101/images/post-cover/vector_landscape_3.svg" alt="landscape 3"></p></div><figure class="highlight html"><figcaption><span>Gallery 1 >folded</span></figcaption><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br></pre></td><td class="code"><pre><span class="line"><span class="tag">&lt;<span class="name">div</span> <span class="attr">class</span>=<span class="string">&quot;justified-gallery&quot;</span>&gt;</span></span><br><span class="line"></span><br><span class="line">![landscape 1](/images/post-cover/vector_landscape_1.svg)</span><br><span class="line">![landscape 2](/images/post-cover/vector_landscape_2.svg)</span><br><span class="line">![landscape 3](/images/post-cover/vector_landscape_3.svg)</span><br><span class="line"></span><br><span class="line"><span class="tag">&lt;/<span class="name">div</span>&gt;</span></span><br></pre></td></tr></table></figure><h3 id="Gallery-2"><a href="#Gallery-2" class="headerlink" title="Gallery 2"></a>Gallery 2</h3><div class="justified-gallery"><img src="/blog101/images/post-cover/vector_landscape_1.svg" alt="landscape 1" /><img src="/blog101/images/post-cover/vector_landscape_2.svg" alt="landscape 2" /><img src="/blog101/images/post-cover/vector_landscape_3.svg" alt="landscape 3" /></div><figure class="highlight html"><figcaption><span>Gallery 2</span></figcaption><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br></pre></td><td class="code"><pre><span class="line"><span class="tag">&lt;<span class="name">div</span> <span class="attr">class</span>=<span class="string">&quot;justified-gallery&quot;</span>&gt;</span></span><br><span class="line">    <span class="tag">&lt;<span class="name">img</span> <span class="attr">src</span>=<span class="string">&quot;/images/post-cover/vector_landscape_1.svg&quot;</span> <span class="attr">alt</span>=<span class="string">&quot;landscape 1&quot;</span> /&gt;</span></span><br><span class="line">    <span class="tag">&lt;<span class="name">img</span> <span class="attr">src</span>=<span class="string">&quot;/images/post-cover/vector_landscape_2.svg&quot;</span> <span class="attr">alt</span>=<span class="string">&quot;landscape 2&quot;</span> /&gt;</span></span><br><span class="line">    <span class="tag">&lt;<span class="name">img</span> <span class="attr">src</span>=<span class="string">&quot;/images/post-cover/vector_landscape_3.svg&quot;</span> <span class="attr">alt</span>=<span class="string">&quot;landscape 3&quot;</span> /&gt;</span></span><br><span class="line"><span class="tag">&lt;/<span class="name">div</span>&gt;</span></span><br></pre></td></tr></table></figure>]]></content>
+    
+    
+    <summary type="html">&lt;p&gt;Style&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://ppoffice.github.io/hexo-theme-icarus/uncategorized/hexo-built-in-tag-helpers/&quot;&gt;https://ppoffice.github.io/hexo-theme-icarus/uncategorized/hexo-built-in-tag-helpers/&lt;/a&gt;&lt;/p&gt;</summary>
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>post 3</title>
+    <link href="https://sinanselvi.github.io/blog101/category3/post-3/"/>
+    <id>https://sinanselvi.github.io/blog101/category3/post-3/</id>
+    <published>2023-11-26T20:21:01.000Z</published>
+    <updated>2023-12-17T20:21:18.014Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="post-3"><a href="#post-3" class="headerlink" title="post 3"></a>post 3</h2><span id="more"></span><h2 id="post-3-1"><a href="#post-3-1" class="headerlink" title="post 3_1"></a>post 3_1</h2><p>Sit id enim do velit sunt.</p><h2 id="post-3-2"><a href="#post-3-2" class="headerlink" title="post 3_2"></a>post 3_2</h2><p>Laboris commodo reprehenderit dolore ea magna enim consectetur pariatur aliquip sint. Dolore eiusmod pariatur irure nulla cillum nostrud culpa magna sunt irure. Ex esse nostrud esse dolore ea dolor minim ad et id elit. Excepteur nisi dolore consectetur laboris cupidatat culpa. Voluptate minim incididunt est veniam ad officia tempor consequat nostrud. Quis in reprehenderit quis officia ad deserunt.</p><p>Incididunt culpa tempor velit nostrud adipisicing deserunt culpa esse mollit reprehenderit reprehenderit commodo adipisicing. Pariatur qui cupidatat ea occaecat in ipsum labore consequat Lorem do. Irure ea sint ullamco ipsum velit. Ipsum qui veniam exercitation Lorem consectetur qui.</p>]]></content>
+    
+    
+    <summary type="html">&lt;h2 id=&quot;post-3&quot;&gt;&lt;a href=&quot;#post-3&quot; class=&quot;headerlink&quot; title=&quot;post 3&quot;&gt;&lt;/a&gt;post 3&lt;/h2&gt;</summary>
+    
+    
+    
+    <category term="category3" scheme="https://sinanselvi.github.io/blog101/categories/category3/"/>
+    
+    
+    <category term="tag3" scheme="https://sinanselvi.github.io/blog101/tags/tag3/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>post 2</title>
+    <link href="https://sinanselvi.github.io/blog101/category2/post-2/"/>
+    <id>https://sinanselvi.github.io/blog101/category2/post-2/</id>
+    <published>2023-11-24T20:20:57.000Z</published>
+    <updated>2023-12-17T20:21:18.013Z</updated>
+    
+    <content type="html"><![CDATA[<p>post 2</p><span id="more"></span><p>Incididunt culpa tempor velit nostrud adipisicing deserunt culpa esse mollit reprehenderit reprehenderit commodo adipisicing. Pariatur qui cupidatat ea occaecat in ipsum labore consequat Lorem do. Irure ea sint ullamco ipsum velit. Ipsum qui veniam exercitation Lorem consectetur qui.</p><p>Do ut minim deserunt cupidatat veniam labore commodo reprehenderit laboris occaecat. Veniam do ea ad et dolor tempor tempor tempor voluptate sit aliquip sint excepteur fugiat. Qui est aute amet laborum pariatur nostrud nostrud ut laborum. Culpa deserunt voluptate Lorem ad non anim amet eiusmod occaecat consectetur dolore cupidatat sint consectetur.</p>]]></content>
+    
+    
+    <summary type="html">&lt;p&gt;post 2&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="category2" scheme="https://sinanselvi.github.io/blog101/categories/category2/"/>
+    
+    
+    <category term="tag2" scheme="https://sinanselvi.github.io/blog101/tags/tag2/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>post 1</title>
+    <link href="https://sinanselvi.github.io/blog101/category1/post-1/"/>
+    <id>https://sinanselvi.github.io/blog101/category1/post-1/</id>
+    <published>2023-11-23T20:20:53.000Z</published>
+    <updated>2023-12-17T20:21:18.013Z</updated>
+    
+    <content type="html"><![CDATA[<p>post 1</p><span id="more"></span><p>Incididunt culpa tempor velit nostrud adipisicing deserunt culpa esse mollit reprehenderit reprehenderit commodo adipisicing. Pariatur qui cupidatat ea occaecat in ipsum labore consequat Lorem do. Irure ea sint ullamco ipsum velit. Ipsum qui veniam exercitation Lorem consectetur qui.</p><p>Do ut minim deserunt cupidatat veniam labore commodo reprehenderit laboris occaecat. Veniam do ea ad et dolor tempor tempor tempor voluptate sit aliquip sint excepteur fugiat. Qui est aute amet laborum pariatur nostrud nostrud ut laborum. Culpa deserunt voluptate Lorem ad non anim amet eiusmod occaecat consectetur dolore cupidatat sint consectetur.</p>]]></content>
+    
+    
+    <summary type="html">&lt;p&gt;post 1&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="category1" scheme="https://sinanselvi.github.io/blog101/categories/category1/"/>
+    
+    
+    <category term="tag1" scheme="https://sinanselvi.github.io/blog101/tags/tag1/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="https://sinanselvi.github.io/blog101/uncategorized/hello-world/"/>
+    <id>https://sinanselvi.github.io/blog101/uncategorized/hello-world/</id>
+    <published>2023-11-22T20:20:53.000Z</published>
+    <updated>2023-12-17T20:21:18.013Z</updated>
+    
+    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><span id="more"></span><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
+    
+    
+    <summary type="html">&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot;&gt;documentation&lt;/a&gt; for more info. If you get any problems when using Hexo, you can find the answer in &lt;a href=&quot;https://hexo.io/docs/troubleshooting.html&quot;&gt;troubleshooting&lt;/a&gt; or you can ask me on &lt;a href=&quot;https://github.com/hexojs/hexo/issues&quot;&gt;GitHub&lt;/a&gt;.&lt;/p&gt;</summary>
+    
+    
+    
+    
+  </entry>
+  
+</feed>
